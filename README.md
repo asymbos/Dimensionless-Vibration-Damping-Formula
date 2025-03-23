@@ -1,0 +1,1 @@
+# Dimensionless-Vibration-Damping-Formula
